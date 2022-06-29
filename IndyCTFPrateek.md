@@ -15,7 +15,7 @@ This challenge was not hard. I just converted the UART format to ASCII format an
 
 ## 5niff--1t
 
-Just used logic1 x to open the file and 
+Just used logic1 x to open the file and used an analyzer to get hex. Then multiplied the baud rate of the resulting conversation by 12 and got the flag.
 
 ## Baby_IR
 
